@@ -23,7 +23,7 @@ bundle install
 
 #### Запуск программы
 ```
-ruby main.rb
+bundler exec ruby main.rb
 ```
 
 ---
